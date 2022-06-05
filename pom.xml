@@ -398,7 +398,7 @@
         </activation>
         <properties>
             <!-- Optional URL to server. Default value is http://localhost:9000 -->
-            <sonar.host.url>http://13.127.74.103:900</sonar.host.url>
+		<sonar.host.url>http://13.233.47.113:9000</sonar.host.url>
 	    <sonar.login>admin</sonar.login>
 	    <sonar.password>petclinic</sonar.password>
         </properties>
